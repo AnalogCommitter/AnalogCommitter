@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nathalieherzog&count_private=true&theme=radical&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalieherzog&langs_count=5&theme=radical)]()
