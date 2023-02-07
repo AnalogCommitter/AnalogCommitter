@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**NathalieHerzog/NathalieHerzog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AnalogCommitter/NathalieHerzog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalieherzog&langs_count=5&theme=radical)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=analogcommitter&langs_count=5&theme=radical)]()
